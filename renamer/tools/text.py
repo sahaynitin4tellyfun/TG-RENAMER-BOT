@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [Telly BOT UPDATES](https://t.me/tellybots_4y)
+** Channel:** [Telly BOT UPDATES](https://t.me/tellybots_4u)
 
 ** Group:** [Telly BOT SUPPORT](https://t.me/tellybots_support)
 
@@ -57,6 +57,6 @@ of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
  
 __--Payment Methods:--__
  
-GooglePay / Paytm / PhonPay / paypal / Net Banking
+GooglePay / Paytm / PhonePay / paypal / Net Banking
  
 **For Donate:** message me @Tellybot_4u"""
